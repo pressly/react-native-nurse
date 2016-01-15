@@ -37,6 +37,8 @@ So now you are ready to use `nurse`
 
 Here's the full demo:
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pressly/react-native-nurse/master/demo/demo.gif" />
+</p>
 
 cheers :)
