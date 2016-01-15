@@ -33,3 +33,10 @@ So now you are ready to use `nurse`
 - run `nurse -i "iPhone 6" -b "org.reactjs.native.example" -a awesome`
 
 > the above command runs the project on iPhone 6 simulator and opens android vm assigned to `awesome`.
+
+
+Here's the full demo:
+
+
+
+cheers :)
