@@ -23,7 +23,7 @@ before you can use it in your app, you need to know couple of things:
     - [xctool](https://github.com/facebook/xctool) must be installed
 
   - Android
-    - make sure that you have done all of the android configuration described [here](https://facebook.github.io/react-native/docs/android-setup.html#content)
+    - make sure that you have done all of the android configuration described [here](https://facebook.github.io/react-native/releases/0.48/docs/getting-started.html#android-development-environment)
 
 So now you are ready to use `nurse`
 
